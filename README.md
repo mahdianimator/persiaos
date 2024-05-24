@@ -5,3 +5,10 @@ You can fix the error with the following command
 ```bash
 mkdir user
 ```
+Before that, you need to install prerequisites
+```bash
+pip install tk
+```
+```bash
+pip install pyqt5
+```
