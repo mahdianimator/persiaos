@@ -8,6 +8,11 @@ git clone https://github.com/mahdianimator/persiaos
 ```bash
 cd persiaos
 ```
+# How To Run
+You can run the command below
+```bash
+python os.py
+```
 # Fix Error
 You can fix the error with the following command
 ```bash
