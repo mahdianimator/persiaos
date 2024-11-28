@@ -1,16 +1,16 @@
 # How to Run
 1. clone the repository on under command
-,,,bash
+,,,console
 git clone https://github.com/mahdianimator/persiaos
 ,,,
 2. install requirment
-,,,bash
+,,,console
 pip install colorama
 ,,,
 3. go to persiaos folder and run
-,,,bash
+,,,console
 cd persiaos
 ,,,
-,,,bash
+,,,console
 python main.py
 ,,,
