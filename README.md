@@ -1,16 +1,16 @@
 # How to Run
-clone the repository on under command
-,,,bash
+1. clone the repository on under command
+```bash
 git clone https://github.com/mahdianimator/persiaos
-,,,
-install requirment
-,,,bash
+```
+3. install requirment
+```bash
 pip install colorama
-,,,
-go to persiaos folder and run
-,,,bash
+```
+5. go to persiaos folder and run
+```bash
 cd persiaos
-,,,
-,,,bash
+```
+```bash
 python main.py
-,,,
+```
