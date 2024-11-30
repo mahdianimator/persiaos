@@ -1,7 +1,6 @@
 import os
 import random
 import getpass
-from tkinter.filedialog import *
 import time
 import platform
 import zipfile
